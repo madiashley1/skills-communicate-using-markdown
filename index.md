@@ -16,3 +16,9 @@ $ javac *.java
 ``` java
 System.out.println("Hello world!");
 ```
+
+
+#### adding a task list
+- [ ] Finish this course on markdown
+- [ ] Do the review pull requests course
+- [ ] Do the continuous integration (text-with-actions) course
